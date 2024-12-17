@@ -61,7 +61,10 @@ class Program
 
         propertyService.UpdatePropertyTitle(2, "Updated title");
 
+        propertyService.RemoveRandomUnpurchasedProperties(buyerService);
 
+        Console.WriteLine("Properties after removal:");
+        propertyService.DisplayProperties();
 
 
     }

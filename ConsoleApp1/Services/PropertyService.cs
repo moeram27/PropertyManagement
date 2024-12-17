@@ -72,5 +72,26 @@ namespace ConsoleApp1.Services
                 Console.WriteLine($"{property.GetType().Name} ID: {property.Id}, Title: {property.Title}, Price: {property.Price}");
             }
         }
+
+        public void RemoveRandomUnpurchasedProperties(BuyerService buyerService)
+        {
+            List<Property> unpurchasedProperties = properties.Where(p => !buyerService.buyers.Any(b => b.OwnedProperties.Contains(p))).ToList();
+
+            Random random = new Random();
+
+           
+            int firstIndex = random.Next(unpurchasedProperties.Count);
+            int secondIndex;
+            do
+            {
+                secondIndex = random.Next(unpurchasedProperties.Count);
+            } while (firstIndex == secondIndex); 
+
+            
+            properties.Remove(unpurchasedProperties[firstIndex]);
+            properties.Remove(unpurchasedProperties[secondIndex]);
+
+            Console.WriteLine($"Removed properties: {unpurchasedProperties[firstIndex].Title} and {unpurchasedProperties[secondIndex].Title}");
+        }
     }
 }
