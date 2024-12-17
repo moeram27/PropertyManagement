@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\utils\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\utils\\idgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\mramadan\\source\\repos\\consoleapp1\\consoleapp1\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuyerService.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Services\\BuyerService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\BuyerService.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Services\\BuyerService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\BuyerService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:54:54.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IdGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Utils\\IdGenerator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Utils\\IdGenerator.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Utils\\IdGenerator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Utils\\IdGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:21:41.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Services\\PropertyService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Services\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Services\\PropertyService.cs",
+              "RelativeToolTip": "ConsoleApp1\\Services\\PropertyService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwDkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:15:02.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Buyer.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Buyer.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Buyer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:52:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Shop.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Shop.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Shop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:36:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Land.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Land.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Land.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Land.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:24:52.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Apartment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Apartment.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Apartment.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Apartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:23:46.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Property.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Property.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Property.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Models\\Property.cs",
+              "RelativeToolTip": "ConsoleApp1\\Models\\Property.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:49:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\mramadan\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T08:14:38.551Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
