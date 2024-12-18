@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\dev\\src\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\models\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7C9FCC1-D9C2-49E0-B4C0-AF2AE3538BAA}|ConsoleApp1\\ConsoleApp1.csproj|c:\\dev\\src\\consoleapp1\\consoleapp1\\models\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,19 +58,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ConsoleApp1",
+              "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T16:15:34.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BuyerService.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Services\\BuyerService.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Services\\BuyerService.cs",
               "ToolTip": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Services\\BuyerService.cs",
               "RelativeToolTip": "ConsoleApp1\\Services\\BuyerService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T15:54:54.657Z"
+              "WhenOpened": "2024-12-16T15:54:54.657Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IdGenerator.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Utils\\IdGenerator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Utils\\IdGenerator.cs",
@@ -84,14 +101,14 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Services\\PropertyService.cs",
               "ToolTip": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Services\\PropertyService.cs",
               "RelativeToolTip": "ConsoleApp1\\Services\\PropertyService.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T15:15:02.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Buyer.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Models\\Buyer.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Buyer.cs",
@@ -103,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Shop.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Models\\Shop.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Shop.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Land.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Models\\Land.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Land.cs",
@@ -127,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Apartment.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Models\\Apartment.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Apartment.cs",
@@ -139,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Property.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Models\\Property.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Models\\Property.cs",
@@ -151,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\src\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",

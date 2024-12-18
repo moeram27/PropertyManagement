@@ -48,10 +48,6 @@ namespace ConsoleApp1.Services
             }
         }
 
-        public void RemoveProperty()
-        {
-
-        }
 
     }
 }
