@@ -47,7 +47,5 @@ namespace ConsoleApp1.Services
                 Console.WriteLine(); 
             }
         }
-
-
     }
 }
